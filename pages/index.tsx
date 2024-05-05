@@ -66,7 +66,7 @@ const Home: NextPageWithLayout = () => {
         <div className="divider"></div>
         <PricingSection />
         <div className="divider"></div>
-        <FAQSection />
+        {/* <FAQSection /> */}
       </div>
     </>
   );

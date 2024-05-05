@@ -1,46 +1,42 @@
 [
   {
-    "name": "Create account",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "EHR",
+    "description": "Unlock infinite possibilities for patient management with our cutting-edge Electronic Medical Record Platform"
   },
   {
-    "name": "Sign in with Email and Password",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Coordinated Care",
+    "description": "Empower exceptional patient care and seamless care coordinatioon."
   },
   {
-    "name": "Sign in with Magic link",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Document Management",
+    "description": "Go paperless with our form digitization engine & auto fillable forms.  Get a secure, encrypted digital library."
   },
   {
-    "name": "Sign in with SAML SSO",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Electronic Visist Verification (EVV)",
+    "description": "Empower you care with compliant Electronic Visit Verification that includes Geo-Fence and telephony verification."
   },
   {
-    "name": "Directory Sync (SCIM)",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Intuitive Scheduling",
+    "description": "Efficient Scheduling Solution."
   },
   {
-    "name": "Update account",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Messaging",
+    "description": "Enhanced Messaging Service for Seamless Communication."
   },
   {
-    "name": "Invite users to the team",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "HRMS",
+    "description": "Simplify team management with our HRMS. Drive business growth with ease."
   },
   {
-    "name": "Manage team members",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Claims Processing System",
+    "description": "Unlock your revenue potential with cutting-edge AI-powered claims processing and seamless payment tracking."
   },
   {
-    "name": "Update team settings",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Secure and HIPAA Compliant",
+    "description": "Securely protected, HIPAA compliant, and inspiring a new level of trust."
   },
   {
-    "name": "Webhooks & Events",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-  },
-  {
-    "name": "Create team",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    "name": "Reporting",
+    "description": "Reports and Analysis"
   }
 ]
