@@ -13,8 +13,8 @@ const PricingSection = () => {
           {t('pricing')}
         </h2>
         <p className="text-center text-xl">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry.
+          Choose from our affordable plans or start with a 30 day trial to get
+          started.
         </p>
         <div className="flex items-center justify-center">
           <div className="grid grid-cols-1 gap-3 md:grid-cols-3">

@@ -23,7 +23,7 @@ export default function AuthLayout({
             src={app.logoUrl}
             className="mx-auto h-12"
             alt={app.name}
-            width={48}
+            width={200}
             height={48}
           />
           {heading && (

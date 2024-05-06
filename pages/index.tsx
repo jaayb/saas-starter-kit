@@ -10,7 +10,9 @@ import FeatureSection from '@/components/defaultLanding/FeatureSection';
 import PricingSection from '@/components/defaultLanding/PricingSection';
 import useTheme from 'hooks/useTheme';
 import env from '@/lib/env';
+import app from '@/lib/app';
 import Head from 'next/head';
+import Image from 'next/image';
 
 const Home: NextPageWithLayout = () => {
   const { toggleTheme, selectedTheme } = useTheme();
@@ -26,7 +28,7 @@ const Home: NextPageWithLayout = () => {
         <div className="navbar bg-base-100 px-0 sm:px-1">
           <div className="flex-1">
             <Link href="/" className="btn btn-ghost text-xl normal-case">
-              myEZcare
+              <img alt="myEZcare" src={app.logoUrl} width={160} height={50} />
             </Link>
           </div>
           <div className="flex-none">

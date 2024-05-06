@@ -1,30 +1,45 @@
 [
   {
-    "amount": "30k",
+    "amount": "0.00",
     "currency": "USD",
-    "duration": "month",
+    "duration": "30 day trial",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "benefits": [
-      "Up to 20 users.",
-      "Free storage upto 1GB",
+      "Up to 10 patients.",
+      "Document storage up to 1GB",
       "Lifetime validity"
     ]
   },
   {
-    "amount": "120k",
-    "currency": "USD",
-    "duration": "month",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "benefits": ["Up to 500 users.", "Storage upto 50GB", "24*7 support"]
-  },
-  {
-    "amount": "350k",
+    "amount": "$99",
     "currency": "USD",
     "duration": "month",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "benefits": [
-      "Up to 1000 users.",
-      "Storage upto 100GB",
+      "Up to 10 patients.",
+      "Document storage up to 10GB",
+      "Lifetime validity"
+    ]
+  },
+  {
+    "amount": "150",
+    "currency": "USD",
+    "duration": "month",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "benefits": [
+      "Up to 20 patients.",
+      "Document storage up to 50GB",
+      "24*7 support"
+    ]
+  },
+  {
+    "amount": "320",
+    "currency": "USD",
+    "duration": "month",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "benefits": [
+      "Up to 30+ patients.",
+      "Document storage up to 100GB",
       "24*7 support",
       "Data backups"
     ]
